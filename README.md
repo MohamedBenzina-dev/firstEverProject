@@ -4,7 +4,7 @@ For my first ever project i did something simple that is the foundational logic 
 
 # How it works
 Its pretty simple instead of tracking targets on a basic, single-axis flat line, this Python script simulates
-**2D computer vision sensor tracking**. It divides a camera's field of view into four geometric quadrants using X and Y coordinates on a 100x100 grid but this is of course can be changed to you camera resolution and the quadrants are not going to be just four they would be a lot more
+**2D computer vision sensor tracking**. It divides a camera's field of view into four geometric quadrants using X and Y coordinates on a 100x100 grid but this  of course can be changed to your camera resolution and the quadrants are not going to be just four they would be a lot more
 
 
 ### How the Logic Breaks Down:
